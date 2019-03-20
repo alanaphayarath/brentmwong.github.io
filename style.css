@@ -266,6 +266,16 @@ footer.row {
   border-color: rgb(235, 23, 99);
   color: White;
 }
+.outline.becu {
+  background-color: #D2272D;
+  border-color: #D2272D;
+  color: White;
+}
+.outline.becu:focus,
+.outline.becu:hover {
+  border-color: white;
+  color: #fffefd;
+}
 .outline.green:focus,
 .outline.green:hover {
   border-color: white;
