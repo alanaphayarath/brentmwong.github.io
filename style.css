@@ -309,12 +309,12 @@ footer.row {
   color: #fffefd;
 }
 .outline.Walle {
-  border-color: rebeccapurple;
-  color: rebeccapurple;
+  border-color: #514087;
+  color: #514087;
 }
 .outline.Walle:focus,
 .outline.Walle:hover {
-  background-color: rebeccapurple;
+  background-color: #514087;
   color: #fffefd;
 }
 .outline.white {
@@ -499,7 +499,7 @@ footer.row {
     font-weight: normal;
 }
 .label.walletag {
-    background-color: rebeccapurple;
+    background-color: #514087;
     border-radius: 0;
     font-weight: normal;
 }
